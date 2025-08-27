@@ -46,9 +46,9 @@ This project is built using **FastAPI (backend)** and **HTML + CSS + JS (fronten
 
 List any software or dependencies a user needs to have installed.
 
-    * Python 3.x
-    * `pip` (Python package installer)
-    * Git
+   * Python 3.x
+   * `pip` (Python package installer)
+   * Git
 
 ### Installation
 
